@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "euler1",
+  "euler5",
+  "euler7",
+  "euler8"
+]
